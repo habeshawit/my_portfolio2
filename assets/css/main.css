@@ -1843,7 +1843,7 @@ header {
 	}
 
 	@media screen and (max-width: 600px) {
-		.grid-item img {
+		.grid-item iframe {
 		  visibility: hidden;
 		  clear: both;
 		  float: left;
